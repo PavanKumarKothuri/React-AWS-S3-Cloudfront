@@ -1,0 +1,20 @@
+.App {
+    text-align: center;
+    background-color: #f0f0f0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.App-header {
+    color: #333;
+}
+
+img {
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
